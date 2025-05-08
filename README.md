@@ -1,1 +1,1 @@
-"# Implementation of RabbitMQ using two Laravel microservices" 
+# Implementation of RabbitMQ using two Laravel microservices
